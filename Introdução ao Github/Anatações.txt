@@ -1,0 +1,7 @@
+Link para download do git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do git, aplicativo para ambientes do Microsoft Windows que oferece a camada de emulação para a experiência de linha de comando Git.
+
+ ***************Comandos*******************
+git --version ---Verifique se a instalação ocorreu com sucesso usando.
+git config --global user.name "João Silva" 
+git config --global user.email "exemplo@seuemail.com.br"
